@@ -1,0 +1,45 @@
+{
+  "classes": [
+    "hip thrusts",
+    "jumping jacks",
+    "lunges",
+    "pullups",
+    "pushups",
+    "squats"
+  ],
+  "num_classes": 6,
+  "input_shape": 132,
+  "num_keypoints": 33,
+  "class_reconstruction_errors": {
+    "hip thrusts": {
+      "mean": 0.006754825734912652,
+      "std": 0.004814076487103167,
+      "threshold": 0.016382978709118985
+    },
+    "jumping jacks": {
+      "mean": 0.005590083048826389,
+      "std": 0.005540485981621908,
+      "threshold": 0.016671055012070207
+    },
+    "lunges": {
+      "mean": 0.008836701090465027,
+      "std": 0.006277501580698671,
+      "threshold": 0.02139170425186237
+    },
+    "pullups": {
+      "mean": 0.007336527979254318,
+      "std": 0.00560921163945105,
+      "threshold": 0.018554951258156416
+    },
+    "pushups": {
+      "mean": 0.00592698831784868,
+      "std": 0.005131497975640088,
+      "threshold": 0.016189984269128856
+    },
+    "squats": {
+      "mean": 0.0066639114261336325,
+      "std": 0.003931646616731381,
+      "threshold": 0.014527204659596393
+    }
+  }
+}
