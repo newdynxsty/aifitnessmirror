@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NRF52840-CKAA-R")(type "KiCad")(uri "C:/Users/ian16/Downloads/NRF52840-CKAA-R/NRF52840-CKAA-R.kicad_sym")(options "")(descr ""))
+  (lib (name "BMI270")(type "KiCad")(uri "C:/Users/ian16/Downloads/BMI270/BMI270.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX30102EFD_T")(type "KiCad")(uri "C:/Users/ian16/Downloads/MAX30102EFD_T/MAX30102EFD_T.kicad_sym")(options "")(descr ""))
+)
